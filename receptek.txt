@@ -1,0 +1,30 @@
+eloetel:
+https://www.mindmegette.hu/recept/sajtos-baconos-parna
+https://www.mindmegette.hu/recept/serpenyos-melegszendvics-csipos-majonezzel
+https://www.mindmegette.hu/recept/sajtos-virslis-tekercs
+https://www.mindmegette.hu/recept/smoothie-bowl
+https://www.mindmegette.hu/recept/hazi-paradicsomszoszban-sult-mozzarella
+https://www.mindmegette.hu/recept/juhturos-korozott
+
+leves:
+https://www.mindmegette.hu/recept/gyors-bableves-baconnel
+https://www.mindmegette.hu/recept/piros-gyumolcsleves-malnaval-meggyel-cseresznyevel
+https://www.mindmegette.hu/recept/hagyomanyos-zoldborsoleves
+
+foetel:
+	edes:
+https://www.mindmegette.hu/recept/szilvas-gomboc-hagyomanyosan
+https://www.mindmegette.hu/recept/almas-makos-rakott-teszta
+https://www.mindmegette.hu/recept/turogomboc-buzadaraval
+	sos:
+https://www.mindmegette.hu/recept/gyors-zoldseges-taco
+https://www.mindmegette.hu/recept/egyszeru-pizzateszta
+https://www.mindmegette.hu/recept/gyros-tal-hazilag-egyszeruen
+
+desszert:
+	edes:
+https://www.mindmegette.hu/recept/panna-cotta
+https://www.mindmegette.hu/recept/afonyas-mousse
+https://www.mindmegette.hu/recept/almaspite
+https://www.mindmegette.hu/recept/bohem-csemege
+https://www.mindmegette.hu/recept/klasszikus-profiterol
