@@ -1,14 +1,21 @@
 eloetel:
+	edes:
+https://www.mindmegette.hu/recept/smoothie-bowl
+https://www.mindmegette.hu/recept/juhturos-korozott
+https://www.mindmegette.hu/recept/angolkrem
+	sos:
 https://www.mindmegette.hu/recept/sajtos-baconos-parna
 https://www.mindmegette.hu/recept/serpenyos-melegszendvics-csipos-majonezzel
 https://www.mindmegette.hu/recept/sajtos-virslis-tekercs
-https://www.mindmegette.hu/recept/smoothie-bowl
-https://www.mindmegette.hu/recept/hazi-paradicsomszoszban-sult-mozzarella
-https://www.mindmegette.hu/recept/juhturos-korozott
 
 leves:
-https://www.mindmegette.hu/recept/gyors-bableves-baconnel
+	edes:
 https://www.mindmegette.hu/recept/piros-gyumolcsleves-malnaval-meggyel-cseresznyevel
+https://www.mindmegette.hu/recept/tejszines-sargabarack-kremleves
+https://www.mindmegette.hu/recept/fahejas-almaleves
+	sos:
+https://www.mindmegette.hu/recept/gyors-bableves-baconnel
+https://www.mindmegette.hu/recept/gulyasleves-ahogy-anyukam-kesziti
 https://www.mindmegette.hu/recept/hagyomanyos-zoldborsoleves
 
 foetel:
@@ -23,8 +30,10 @@ https://www.mindmegette.hu/recept/gyros-tal-hazilag-egyszeruen
 
 desszert:
 	edes:
-https://www.mindmegette.hu/recept/panna-cotta
 https://www.mindmegette.hu/recept/afonyas-mousse
 https://www.mindmegette.hu/recept/almaspite
 https://www.mindmegette.hu/recept/bohem-csemege
-https://www.mindmegette.hu/recept/klasszikus-profiterol
+	sos:
+https://www.mindmegette.hu/recept/sajtos-stangli-szendvicsnek-valo
+https://www.mindmegette.hu/recept/eredeti-sajtos-rud
+https://www.mindmegette.hu/recept/hajtogatott-sajtospogacsa
